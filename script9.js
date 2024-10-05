@@ -12,5 +12,11 @@ if(age >= 21) {
     console. log('You can vote in the election'); 
 }
  else { 
-  console. log('You are too young to vote');
+  console. log('You are too young to vote AAA');
+  console.log("hello ");
+ }
+
+ function newFeatureAdd() {
+  console.log("This is a new feature");
+  
  }
